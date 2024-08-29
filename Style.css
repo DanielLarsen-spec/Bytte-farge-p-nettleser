@@ -1,0 +1,22 @@
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.redBackground{
+    background-color: red;
+    
+}
+.border{
+    border: 1px solid black;
+}
+
+.silverBackground{
+    background-color: silver;
+}
+
+.goldBackground{
+    background-color: gold;
+}
+
+
